@@ -62,7 +62,7 @@
     "babel-preset-stage-3": "6.24.1",
     "babel-runtime": "6.23.0",
     "codacy-coverage": "2.0.2",
-    "codecov": "2.2.0",
+    "codecov": "3.8.2",
     "coveralls": "2.13.1",
     "css-loader": "0.28.4",
     "element-react": "1.0.16",
